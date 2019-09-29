@@ -23,4 +23,3 @@ XData KPI [ XMLNamespace = "http://www.intersystems.com/deepsee/kpi" ]
 }
 
 }
-

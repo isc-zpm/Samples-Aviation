@@ -40,4 +40,3 @@ Method DrawRedirect(pSeed As %String) As %Status
 }
 
 }
-

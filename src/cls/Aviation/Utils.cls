@@ -104,7 +104,6 @@ ClassMethod SetupStandalone(pLoadTermLists As %Boolean = 1, pVerbose As %Boolean
 	quit tSC
 }
 
-
 /// Returns the dictionaries to be used for matching with the Aviation dataset in a 
 /// pseudo-form, so they can be used both for building Term Lists (see
 /// <method>CreateTermLists</method>) and iKnow Dictionaries
@@ -647,4 +646,3 @@ ClassMethod LoadFromNTSB(pDSN As %String = "AviationAccess", pMaxRecords As %Int
 }
 
 }
-

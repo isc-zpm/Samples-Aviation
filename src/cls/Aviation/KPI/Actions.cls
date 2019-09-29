@@ -23,4 +23,3 @@ ClassMethod %OnDashboardAction(pAction As %String, pContext As %ZEN.proxyObject)
 }
 
 }
-
